@@ -1,0 +1,9 @@
+{
+  "name": "back-to-start",
+  "title": "Back to Start",
+  "id": "jid1-EcXc9XBriJWlCA",
+  "description": "Adds an Opera-style 'Go back to start' button",
+  "author": "Gernot Payer",
+  "license": "GPL v3",
+  "version": "0.5"
+}

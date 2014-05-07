@@ -1,0 +1,1 @@
+Functionality is finished, Design is still somewhat lacking. And some configuraton options might be useful.
