@@ -5,5 +5,14 @@
   "description": "Adds an Opera-style 'Go back to start' button",
   "author": "Gernot Payer",
   "license": "GPL v3",
-  "version": "0.5"
+  "version": "0.8",
+  "icon": "./data/icon-48.png",
+  "icon64": "./data/icon-64.png",
+  "preferences": [{
+      "name": "debug",
+      "title": "Debug",
+      "description": "Set this if you want debug output to the browser log",
+      "type": "bool",
+      "value": false
+  }]
 }
